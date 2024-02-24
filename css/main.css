@@ -1,0 +1,65 @@
+body{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px;
+    font: normal small-caps bold x-large 3px Arial; 
+}
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    color: brown;
+    font-size: 38px;
+}
+h2{
+    color: chocolate;
+    font-size: 20px;
+    padding-top: 20px;
+}
+main{
+    height: 70vh;
+}
+img{
+    border: 1px solid black;
+    width: 90%;
+    height: 80%;
+}
+figure{
+    background-color: rgb(240, 123, 39);
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+#page1{
+    float: left;
+}
+#page2{
+    float: right;
+}
+section{
+    clear: both;
+}
+figcaption{
+    font-weight: normal;
+    font-size: x-large;
+    color: brown;
+    padding: 5px;
+}
+li{
+    color: blueviolet;
+    list-style:square;
+    line-height: 2rem;
+}
+a:hover{
+    color: brown;
+}
+header, footer{
+    background-color:rgb(255, 183, 0);
+    text-align: center;
+}
+.para{
+    color: rgb(240, 123, 39);
+}
